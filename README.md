@@ -3,7 +3,13 @@
 https://github.com/xgqfrms/qrcode-reader-app
 
 ```sh
-# 
+# qrcode-reader-app
+$ react-native init qrcode_reader_app
+
+
+
+
+
     
 ```
 
