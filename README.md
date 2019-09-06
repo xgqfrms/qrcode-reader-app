@@ -6,11 +6,15 @@ https://github.com/xgqfrms/qrcode-reader-app
 # qrcode-reader-app
 $ react-native init qrcode_reader_app
 
+# iOS
+$ cd qrcode_reader_app && react-native run-ios
+# Open qrcode_reader_app\ios\qrcode_reader_app.xcodeproj in Xcode or run "xed -b ios"
+# Hit the Run button
 
+# Have an Android emulator running (quickest way to get started), or a device connected.
+# Android
+$ cd qrcode_reader_app && react-native run-android
 
-
-
-    
 ```
 
 ## QR Code (Generator and Reader)
