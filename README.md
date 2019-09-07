@@ -92,6 +92,20 @@ https://reactnavigation.org/docs/en/stack-navigator.html
 D:\github\qrcode-reader-app\qrcode_reader_app\android\app\src\main\java\com\qrcode_reader_app\MainActivity.java
 
 
+## CocoaPods
+
+> CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.
+
+> It has over 65 thousand libraries and is used in over 3 million apps. CocoaPods can help you scale your projects elegantly.
+
+
+https://cocoapods.org/
+
+Installing required CocoaPods dependencies
+? CocoaPods (https://cocoapods.org/) is not installed. It's necessary for iOS project to run correctly. Do you want to install it? Yes
+
+
+
 
 
 
