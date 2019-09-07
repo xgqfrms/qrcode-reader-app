@@ -106,7 +106,11 @@ Installing required CocoaPods dependencies
 
 
 
+```sh
 
+$ cd ./qrcode_app/ios && pod install
+
+```
 
 
 
