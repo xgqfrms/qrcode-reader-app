@@ -112,5 +112,47 @@ $ cd ./qrcode_app/ios && pod install
 
 ```
 
+## Flutter
 
+https://flutter.dev/docs/get-started/install/macos#set-up-the-ios-simulator
+
+https://flutter.dev/docs/get-started/install/macos#set-up-the-android-emulator
+
+```sh
+# iOS
+$ open -a Simulator
+
+```
+
+```sh
+# Android
+$ emulator -list-avds
+$ /Users/xgqfrms-mbp/Library/Android/sdk/emulator/emulator emulator -list-avds
+
+$ /Users/xgqfrms-mbp/Library/Android/sdk/emulator/emulator -avd Nexus_5X_API_28_x86
+$ /Users/xgqfrms-mbp/Library/Android/sdk/emulator/emulator -avd Nexus_5X_API_28_x86 -netdelay none -netspeed full
+
+# emulator -avd avd_name [ {-option [value]} … ]
+$ emulator -avd Nexus_5X_API_28_x86
+# OR
+# emulator @avd_name [ {-option [value]} … ]
+$ emulator @Nexus_5X_API_28_x86
+
+```
+
+## flutter run all emulators
+
+https://stackoverflow.com/questions/49045393/flutter-run-no-connected-devices
+
+```sh
+
+$ flutter devices
+
+$ flutter run
+
+$ flutter emulators
+
+$ flutter run -d
+
+```
 
