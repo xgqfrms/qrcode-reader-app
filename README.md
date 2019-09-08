@@ -156,3 +156,10 @@ $ flutter run -d
 
 ```
 
+## iOS bug
+
+```sh
+# sudo gem install cocoapods
+$ cd /ios && pod install
+
+```
